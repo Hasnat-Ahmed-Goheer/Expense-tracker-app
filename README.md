@@ -16,9 +16,9 @@ The **Simple Expense Tracker** is a user-friendly web application created using 
 ## Usage
 
 1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/expense-tracker.git
-   
+```
+git clone https://github.com/your-username/expense-tracker.git
+```   
 2. Install the necessary dependencies:
 ```
 npm install
