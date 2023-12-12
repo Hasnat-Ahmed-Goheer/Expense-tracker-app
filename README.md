@@ -17,7 +17,7 @@ The **Simple Expense Tracker** is a user-friendly web application created using 
 
 1. Clone the repository to your local machine:
 ```
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/Hasnat-Ahmed-Goheer/Expense-tracker-app.git
 ```   
 2. Install the necessary dependencies:
 ```
