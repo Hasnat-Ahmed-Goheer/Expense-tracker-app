@@ -29,6 +29,10 @@ npm start
 ```
 4. Open your web browser and access the application at http://localhost:3000.
 
+## Technologies Used
+- React: The frontend is built using React for its dynamic and responsive user interface.
+- CSS: Custom styles were applied for a visually appealing design.
+
 ## Contributing
 
 Contributions are welcome. To contribute:
