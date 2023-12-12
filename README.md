@@ -1,11 +1,16 @@
 # Simple Expense Tracker 📊
+
+![GitHub repo size](https://img.shields.io/github/repo-size/Hasnat-Ahmed-Goheer/Expense-tracker-app)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Hasnat-Ahmed-Goheer/Expense-tracker-app?color=blue)
+![GitHub stars](https://img.shields.io/github/stars/Hasnat-Ahmed-Goheer/Expense-tracker-app)
+![GitHub forks](https://img.shields.io/github/forks/Hasnat-Ahmed-Goheer/Expense-tracker-app)
+![GitHub issues](https://img.shields.io/github/issues/Hasnat-Ahmed-Goheer/Expense-tracker-app)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Hasnat-Ahmed-Goheer/Expense-tracker-app)
 ![Static Badge](https://img.shields.io/badge/%20build-passing-brightgreen)
+
+
 ![Last Updated](https://img.shields.io/github/last-commit/Hasnat-Ahmed-Goheer/Expense-tracker-app?label=Last%20Updated&color=yellow)
-
-
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
 
 ![image](https://github.com/Hasnat-Ahmed-Goheer/expense-tracker/assets/126459187/b952b872-d0c3-4626-a23d-4eb98fa41bd0)
 
