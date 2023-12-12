@@ -1,4 +1,7 @@
 # Simple Expense Tracker 📊
+![GitHub last commit](https://img.shields.io/github/last-commit/Hasnat-Ahmed-Goheer/Expense-tracker-app?color=blue)
+![Static Badge](https://img.shields.io/badge/%20build-passing-brightgreen)
+![Last Updated](https://img.shields.io/github/last-commit/Hasnat-Ahmed-Goheer/Expense-tracker-app?label=Last%20Updated&color=yellow)
 
 ![image](https://github.com/Hasnat-Ahmed-Goheer/expense-tracker/assets/126459187/b952b872-d0c3-4626-a23d-4eb98fa41bd0)
 
